@@ -1,4 +1,4 @@
-Live Link: https://moder-website-happy-designs.netlify.app/
+Live Link: https://modern-website-happy-designs.netlify.app/
 
 ### Deployment
 
